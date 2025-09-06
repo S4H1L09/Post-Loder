@@ -1,0 +1,2 @@
+import lund
+lund.main()
